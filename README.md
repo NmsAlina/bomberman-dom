@@ -108,4 +108,4 @@ Enjoy!!!
 
 
 <hr>
-This project was made in colaboration with [Avengerist](https://gitlab.com/Avengerist)
+This project was made in colaboration with <a href="https://gitlab.com/Avengerist">Avengerist</a>
