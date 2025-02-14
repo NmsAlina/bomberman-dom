@@ -104,5 +104,8 @@ To run this bomberman-dom project in docker, follow these steps:
 
 4. Open the project in Web-Browser: <br>http://localhost:8080
 
-
 Enjoy!!!
+
+
+<hr>
+This project was made in colaboration with [Avengerist](https://gitlab.com/Avengerist)
